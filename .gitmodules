@@ -1,0 +1,282 @@
+[submodule "roles/ansible-apt"]
+	path = roles/ansible-apt
+	url = https://github.com/debops/ansible-apt
+[submodule "roles/ansible-apt_cacher_ng"]
+	path = roles/ansible-apt_cacher_ng
+	url = https://github.com/debops/ansible-apt_cacher_ng
+[submodule "roles/ansible-apt_install"]
+	path = roles/ansible-apt_install
+	url = https://github.com/debops/ansible-apt_install
+[submodule "roles/ansible-apt_preferences"]
+	path = roles/ansible-apt_preferences
+	url = https://github.com/debops/ansible-apt_preferences
+[submodule "roles/ansible-atd"]
+	path = roles/ansible-atd
+	url = https://github.com/debops/ansible-atd
+[submodule "roles/ansible-auth"]
+	path = roles/ansible-auth
+	url = https://github.com/debops/ansible-auth
+[submodule "roles/ansible-backporter"]
+	path = roles/ansible-backporter
+	url = https://github.com/debops/ansible-backporter
+[submodule "roles/ansible-bootstrap"]
+	path = roles/ansible-bootstrap
+	url = https://github.com/debops/ansible-bootstrap
+[submodule "roles/ansible-boxbackup"]
+	path = roles/ansible-boxbackup
+	url = https://github.com/debops/ansible-boxbackup
+[submodule "roles/ansible-console"]
+	path = roles/ansible-console
+	url = https://github.com/debops/ansible-console
+[submodule "roles/ansible-core"]
+	path = roles/ansible-core
+	url = https://github.com/debops/ansible-core
+[submodule "roles/ansible-cryptsetup"]
+	path = roles/ansible-cryptsetup
+	url = https://github.com/debops/ansible-cryptsetup
+[submodule "roles/ansible-debops"]
+	path = roles/ansible-debops
+	url = https://github.com/debops/ansible-debops
+[submodule "roles/ansible-dhcpd"]
+	path = roles/ansible-dhcpd
+	url = https://github.com/debops/ansible-dhcpd
+[submodule "roles/ansible-dhparam"]
+	path = roles/ansible-dhparam
+	url = https://github.com/debops/ansible-dhparam
+[submodule "roles/ansible-dnsmasq"]
+	path = roles/ansible-dnsmasq
+	url = https://github.com/debops/ansible-dnsmasq
+[submodule "roles/ansible-docker"]
+	path = roles/ansible-docker
+	url = https://github.com/debops/ansible-docker
+[submodule "roles/ansible-docker_gen"]
+	path = roles/ansible-docker_gen
+	url = https://github.com/debops/ansible-docker_gen
+[submodule "roles/ansible-dokuwiki"]
+	path = roles/ansible-dokuwiki
+	url = https://github.com/debops/ansible-dokuwiki
+[submodule "roles/ansible-dovecot"]
+	path = roles/ansible-dovecot
+	url = https://github.com/debops/ansible-dovecot
+[submodule "roles/ansible-elasticsearch"]
+	path = roles/ansible-elasticsearch
+	url = https://github.com/debops/ansible-elasticsearch
+[submodule "roles/ansible-etc_services"]
+	path = roles/ansible-etc_services
+	url = https://github.com/debops/ansible-etc_services
+[submodule "roles/ansible-etherpad"]
+	path = roles/ansible-etherpad
+	url = https://github.com/debops/ansible-etherpad
+[submodule "roles/ansible-fail2ban"]
+	path = roles/ansible-fail2ban
+	url = https://github.com/debops/ansible-fail2ban
+[submodule "roles/ansible-fcgiwrap"]
+	path = roles/ansible-fcgiwrap
+	url = https://github.com/debops/ansible-fcgiwrap
+[submodule "roles/ansible-ferm"]
+	path = roles/ansible-ferm
+	url = https://github.com/debops/ansible-ferm
+[submodule "roles/ansible-gitlab"]
+	path = roles/ansible-gitlab
+	url = https://github.com/debops/ansible-gitlab
+[submodule "roles/ansible-gitlab_ci"]
+	path = roles/ansible-gitlab_ci
+	url = https://github.com/debops/ansible-gitlab_ci
+[submodule "roles/ansible-gitlab_ci_runner"]
+	path = roles/ansible-gitlab_ci_runner
+	url = https://github.com/debops/ansible-gitlab_ci_runner
+[submodule "roles/ansible-gitlab_runner"]
+	path = roles/ansible-gitlab_runner
+	url = https://github.com/debops/ansible-gitlab_runner
+[submodule "roles/ansible-gitusers"]
+	path = roles/ansible-gitusers
+	url = https://github.com/debops/ansible-gitusers
+[submodule "roles/ansible-golang"]
+	path = roles/ansible-golang
+	url = https://github.com/debops/ansible-golang
+[submodule "roles/ansible-grub"]
+	path = roles/ansible-grub
+	url = https://github.com/debops/ansible-grub
+[submodule "roles/ansible-hwraid"]
+	path = roles/ansible-hwraid
+	url = https://github.com/debops/ansible-hwraid
+[submodule "roles/ansible-ifupdown"]
+	path = roles/ansible-ifupdown
+	url = https://github.com/debops/ansible-ifupdown
+[submodule "roles/ansible-ipxe"]
+	path = roles/ansible-ipxe
+	url = https://github.com/debops/ansible-ipxe
+[submodule "roles/ansible-iscsi"]
+	path = roles/ansible-iscsi
+	url = https://github.com/debops/ansible-iscsi
+[submodule "roles/ansible-java"]
+	path = roles/ansible-java
+	url = https://github.com/debops/ansible-java
+[submodule "roles/ansible-kvm"]
+	path = roles/ansible-kvm
+	url = https://github.com/debops/ansible-kvm
+[submodule "roles/ansible-librenms"]
+	path = roles/ansible-librenms
+	url = https://github.com/debops/ansible-librenms
+[submodule "roles/ansible-libvirt"]
+	path = roles/ansible-libvirt
+	url = https://github.com/debops/ansible-libvirt
+[submodule "roles/ansible-libvirtd"]
+	path = roles/ansible-libvirtd
+	url = https://github.com/debops/ansible-libvirtd
+[submodule "roles/ansible-logrotate"]
+	path = roles/ansible-logrotate
+	url = https://github.com/debops/ansible-logrotate
+[submodule "roles/ansible-lvm"]
+	path = roles/ansible-lvm
+	url = https://github.com/debops/ansible-lvm
+[submodule "roles/ansible-lxc"]
+	path = roles/ansible-lxc
+	url = https://github.com/debops/ansible-lxc
+[submodule "roles/ansible-mailman"]
+	path = roles/ansible-mailman
+	url = https://github.com/debops/ansible-mailman
+[submodule "roles/ansible-mariadb"]
+	path = roles/ansible-mariadb
+	url = https://github.com/debops/ansible-mariadb
+[submodule "roles/ansible-mariadb_server"]
+	path = roles/ansible-mariadb_server
+	url = https://github.com/debops/ansible-mariadb_server
+[submodule "roles/ansible-memcached"]
+	path = roles/ansible-memcached
+	url = https://github.com/debops/ansible-memcached
+[submodule "roles/ansible-monit"]
+	path = roles/ansible-monit
+	url = https://github.com/debops/ansible-monit
+[submodule "roles/ansible-monkeysphere"]
+	path = roles/ansible-monkeysphere
+	url = https://github.com/debops/ansible-monkeysphere
+[submodule "roles/ansible-mysql"]
+	path = roles/ansible-mysql
+	url = https://github.com/debops/ansible-mysql
+[submodule "roles/ansible-nfs"]
+	path = roles/ansible-nfs
+	url = https://github.com/debops/ansible-nfs
+[submodule "roles/ansible-nginx"]
+	path = roles/ansible-nginx
+	url = https://github.com/debops/ansible-nginx
+[submodule "roles/ansible-nodejs"]
+	path = roles/ansible-nodejs
+	url = https://github.com/debops/ansible-nodejs
+[submodule "roles/ansible-ntp"]
+	path = roles/ansible-ntp
+	url = https://github.com/debops/ansible-ntp
+[submodule "roles/ansible-openvz"]
+	path = roles/ansible-openvz
+	url = https://github.com/debops/ansible-openvz
+[submodule "roles/ansible-owncloud"]
+	path = roles/ansible-owncloud
+	url = https://github.com/debops/ansible-owncloud
+[submodule "roles/ansible-php5"]
+	path = roles/ansible-php5
+	url = https://github.com/debops/ansible-php5
+[submodule "roles/ansible-phpipam"]
+	path = roles/ansible-phpipam
+	url = https://github.com/debops/ansible-phpipam
+[submodule "roles/ansible-phpmyadmin"]
+	path = roles/ansible-phpmyadmin
+	url = https://github.com/debops/ansible-phpmyadmin
+[submodule "roles/ansible-pki"]
+	path = roles/ansible-pki
+	url = https://github.com/debops/ansible-pki
+[submodule "roles/ansible-postfix"]
+	path = roles/ansible-postfix
+	url = https://github.com/debops/ansible-postfix
+[submodule "roles/ansible-postgresql"]
+	path = roles/ansible-postgresql
+	url = https://github.com/debops/ansible-postgresql
+[submodule "roles/ansible-postgresql_server"]
+	path = roles/ansible-postgresql_server
+	url = https://github.com/debops/ansible-postgresql_server
+[submodule "roles/ansible-preseed"]
+	path = roles/ansible-preseed
+	url = https://github.com/debops/ansible-preseed
+[submodule "roles/ansible-radvd"]
+	path = roles/ansible-radvd
+	url = https://github.com/debops/ansible-radvd
+[submodule "roles/ansible-rails_deploy"]
+	path = roles/ansible-rails_deploy
+	url = https://github.com/debops/ansible-rails_deploy
+[submodule "roles/ansible-redis"]
+	path = roles/ansible-redis
+	url = https://github.com/debops/ansible-redis
+[submodule "roles/ansible-reprepro"]
+	path = roles/ansible-reprepro
+	url = https://github.com/debops/ansible-reprepro
+[submodule "roles/ansible-resources"]
+	path = roles/ansible-resources
+	url = https://github.com/debops/ansible-resources
+[submodule "roles/ansible-rsnapshot"]
+	path = roles/ansible-rsnapshot
+	url = https://github.com/debops/ansible-rsnapshot
+[submodule "roles/ansible-rstudio_server"]
+	path = roles/ansible-rstudio_server
+	url = https://github.com/debops/ansible-rstudio_server
+[submodule "roles/ansible-rsyslog"]
+	path = roles/ansible-rsyslog
+	url = https://github.com/debops/ansible-rsyslog
+[submodule "roles/ansible-ruby"]
+	path = roles/ansible-ruby
+	url = https://github.com/debops/ansible-ruby
+[submodule "roles/ansible-salt"]
+	path = roles/ansible-salt
+	url = https://github.com/debops/ansible-salt
+[submodule "roles/ansible-samba"]
+	path = roles/ansible-samba
+	url = https://github.com/debops/ansible-samba
+[submodule "roles/ansible-secret"]
+	path = roles/ansible-secret
+	url = https://github.com/debops/ansible-secret
+[submodule "roles/ansible-sftpusers"]
+	path = roles/ansible-sftpusers
+	url = https://github.com/debops/ansible-sftpusers
+[submodule "roles/ansible-sks"]
+	path = roles/ansible-sks
+	url = https://github.com/debops/ansible-sks
+[submodule "roles/ansible-slapd"]
+	path = roles/ansible-slapd
+	url = https://github.com/debops/ansible-slapd
+[submodule "roles/ansible-smstools"]
+	path = roles/ansible-smstools
+	url = https://github.com/debops/ansible-smstools
+[submodule "roles/ansible-snmpd"]
+	path = roles/ansible-snmpd
+	url = https://github.com/debops/ansible-snmpd
+[submodule "roles/ansible-sshd"]
+	path = roles/ansible-sshd
+	url = https://github.com/debops/ansible-sshd
+[submodule "roles/ansible-sshkeys"]
+	path = roles/ansible-sshkeys
+	url = https://github.com/debops/ansible-sshkeys
+[submodule "roles/ansible-stunnel"]
+	path = roles/ansible-stunnel
+	url = https://github.com/debops/ansible-stunnel
+[submodule "roles/ansible-subnetwork"]
+	path = roles/ansible-subnetwork
+	url = https://github.com/debops/ansible-subnetwork
+[submodule "roles/ansible-swapfile"]
+	path = roles/ansible-swapfile
+	url = https://github.com/debops/ansible-swapfile
+[submodule "roles/ansible-tcpwrappers"]
+	path = roles/ansible-tcpwrappers
+	url = https://github.com/debops/ansible-tcpwrappers
+[submodule "roles/ansible-tftpd"]
+	path = roles/ansible-tftpd
+	url = https://github.com/debops/ansible-tftpd
+[submodule "roles/ansible-tgt"]
+	path = roles/ansible-tgt
+	url = https://github.com/debops/ansible-tgt
+[submodule "roles/ansible-tinc"]
+	path = roles/ansible-tinc
+	url = https://github.com/debops/ansible-tinc
+[submodule "roles/ansible-unattended_upgrades"]
+	path = roles/ansible-unattended_upgrades
+	url = https://github.com/debops/ansible-unattended_upgrades
+[submodule "roles/ansible-users"]
+	path = roles/ansible-users
+	url = https://github.com/debops/ansible-users
